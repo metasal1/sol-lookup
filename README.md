@@ -1,4 +1,4 @@
-# sns-resolver
+# sol-lookup
 Automatically parse a list of Bonfida Solana Naming Service (SNS), @twitter, and standard Solana wallets, output to file. 
 
 Requirements:
